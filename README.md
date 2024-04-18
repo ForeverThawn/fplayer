@@ -1,11 +1,11 @@
 # fplayer
 
 A CLI multi-media player, supporting nearly all formats around the world (some encrypted formats included), based on mpv (mpv.io)
-命令行多媒体播放器，支持几乎所有格式（包括网易云和酷狗加密格式）基于mpv
+命令行多媒体播放器，支持几乎所有格式（[*即将*]包括网易云和酷狗加密格式）基于mpv
 
 * From fplayer 1.9, English is not officially supported.
 * The origin source files I recoded were bullshit. I might make it open-source in the near future
-* 源代码写的屎山，待我有时间优化再开源
+* 源代码写的屎山，待我有时间优化再开源（正在准备重构）
 
 # Forever Player 2.7 (English)
 
