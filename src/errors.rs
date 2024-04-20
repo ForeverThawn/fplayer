@@ -7,3 +7,9 @@ pub enum KgmErrors {
 
 }
 
+#[derive(Debug, PartialEq)]
+pub enum CoreErrors {
+    FileNotFound,
+
+    
+}
